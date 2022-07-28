@@ -1,3 +1,6 @@
 body{
     font-family: 'Noto Sans', sans-serif;
 }
+.img-brightness{
+    filter: brightness(60%);
+}
